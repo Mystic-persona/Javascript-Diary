@@ -55,3 +55,5 @@ console.log(typeof myfun);      //function
 console.log(typeof id);        //symbol
 console.log(typeof anotherId); //symbol
 
+
+
